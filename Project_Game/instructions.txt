@@ -1,0 +1,15 @@
+GAMEPLAY:
+	1. Press the SPACE button to Shoot Arrow.
+	2. From MEDIUM level the target board will start moving.
+	3. In the HARD level arrow velocity will be changing!!! So, be carefull.
+
+SCORING:
+	1. If you hit the YELLOW portion, you will get 10 points and a BONUS arrow!!!
+	2. If you hit the RED portion, you will get 8 points.
+	3. If you hit the BLUE, BLACK or WHITE portion, you will get 6, 4 or 2 respectively.
+	4. If you can not hit any portion on the target board, you will get a penalty and lose an arrow!!!
+
+SHOP:
+	You can also select character from the SHOP !!! So, before start playing the game, go to SHOP 
+	and choose your character.
+	
