@@ -1,4 +1,4 @@
-# 2ndSemeProjet
+# 2ndSemeProject
 Arrow Shooting Game
 
   About Game:
